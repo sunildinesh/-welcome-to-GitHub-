@@ -1,0 +1,11 @@
+#include<stdio.h>
+main()
+{
+Char S;
+printf ("enter username");
+scanf("%S",&username);
+ if(S=sunil Kumar)
+ printf("welcome to GITHUB"\n);
+  else
+ printf("who r u "\n);
+}
